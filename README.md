@@ -7,7 +7,7 @@ The data used in this experiments is from Voxceleb Dataset. Among all the speake
 
 ## Method
 
-The raw data,
+The raw data, then we extract using MFCC method with 40 dimensions coefficients. After that, we just throw it in the neural network. The training scheme is just like another training scheme. We made an iteration with 100 epo
 
 
 ## Result
